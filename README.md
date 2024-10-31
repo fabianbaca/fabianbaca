@@ -13,7 +13,7 @@ Siempre estoy dispuesto a aceptar desafíos y abrazar nuevas tecnologías. Mis p
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/fabian-obdulio-baca-quitian-421461213/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-obdulio-baca-quitian-421461213/) 
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
